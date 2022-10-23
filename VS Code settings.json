@@ -1,0 +1,11 @@
+// Place your settings in this file to override the defaults
+{
+    "workbench.startupEditor": "none",
+    "security.workspace.trust.banner": "never",
+    "security.workspace.trust.enabled": false,
+    "workbench.colorTheme": "Default Light+",
+    "files.autoSave": "afterDelay",
+    "editor.wordWrap": "on",
+    "editor.accessibilitySupport": "off",
+    "workbench.activityBar.visible": false
+}
