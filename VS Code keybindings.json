@@ -9,11 +9,15 @@
         "command": "workbench.action.zoomReset"
     },
     {
-        "key": "ctrl+v",
+        "key": "cmd+b",
+        "command": "-workbench.action.toggleSidebarVisibility"
+    },
+    {
+        "key": "cmd+b",
         "command": "workbench.action.toggleActivityBarVisibility"
     },
     {
-        "key": "ctrl+i",
+        "key": "ctrl+v",
         "command": "workbench.action.toggleStatusbarVisibility"
     },
     {
@@ -21,7 +25,7 @@
         "command": "editor.action.toggleMinimap"
     },
     {
-        "key": "shift+cmd+i",
+        "key": "cmd+m",
         "command": "workbench.action.toggleMaximizedPanel"
     },
     {
