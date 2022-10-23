@@ -73,5 +73,15 @@
         "key": "cmd+w",
         "command": "workbench.action.terminal.killInstance",
         "when": "terminalFocus && terminalHasBeenCreated || terminalFocus && terminalProcessSupported"
+    },
+        {
+        "key": "delete",
+        "command": "-workbench.action.terminal.killInstance",
+        "when": "terminalHasBeenCreated && terminalTabsFocus || terminalIsOpen && terminalTabsFocus || terminalProcessSupported && terminalTabsFocus"
+    },
+    {
+        "key": "cmd+backspace",
+        "command": "-workbench.action.terminal.killInstance",
+        "when": "terminalHasBeenCreated && terminalTabsFocus || terminalIsOpen && terminalTabsFocus || terminalProcessSupported && terminalTabsFocus"
     }
 ]
