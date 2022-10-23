@@ -17,7 +17,7 @@
         "command": "workbench.action.toggleActivityBarVisibility"
     },
     {
-        "key": "ctrl+v",
+        "key": "shift+cmd+i",
         "command": "workbench.action.toggleStatusbarVisibility"
     },
     {
