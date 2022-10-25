@@ -236,11 +236,11 @@
                         ]
                     },
                     {
-                        "description": "Hyper+K to Open KeepingYouAwake",
+                        "description": "Hyper+A to Open KeepingYouAwake",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "k",
+                                    "key_code": "a",
                                     "modifiers": {
                                         "mandatory": [
                                             "left_shift",
@@ -260,11 +260,11 @@
                         ]
                     },
                     {
-                        "description": "Hyper+A to Close KeepingYouAwake",
+                        "description": "Hyper+W to Close KeepingYouAwake",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "a",
+                                    "key_code": "w",
                                     "modifiers": {
                                         "mandatory": [
                                             "left_shift",
