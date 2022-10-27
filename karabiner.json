@@ -333,15 +333,15 @@
                         ]
                     },
                     {
-                        "description": "Right Command to Right Command or Mouse Right Click (If Alone)",
+                        "description": "Function to Function or Mouse Right Click (If Alone)",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "right_command"
+                                    "key_code": "fn"
                                 },
                                 "to": [
                                     {
-                                        "key_code": "right_command"
+                                        "key_code": "fn"
                                     }
                                 ],
                                 "to_if_alone": [
@@ -354,15 +354,15 @@
                         ]
                     },
                     {
-                        "description": "Function to Function or Mouse Middle Click (If Alone)",
+                        "description": "Right Command to Right Command or Mouse Middle Click (If Alone)",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "fn"
+                                    "key_code": "right_command"
                                 },
                                 "to": [
                                     {
-                                        "key_code": "fn"
+                                        "key_code": "right_command"
                                     }
                                 ],
                                 "to_if_alone": [
