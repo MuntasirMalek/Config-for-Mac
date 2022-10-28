@@ -375,6 +375,27 @@
                         ]
                     },
                     {
+                        "description": "Right Option to Right Option or Mouse Click (If Alone)",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "right_option"
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "right_option"
+                                    }
+                                ],
+                                "to_if_alone": [
+                                    {
+                                        "pointing_button": "button1"
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
                         "description": "Period+Right Option to Next Tab",
                         "manipulators": [
                             {
