@@ -333,15 +333,15 @@
                         ]
                     },
                     {
-                        "description": "Right Command to Right Command or Mouse Left Click (If Alone)",
+                        "description": "Right Option to Right Option or Mouse Left Click (If Alone)",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "right_command"
+                                    "key_code": "right_option"
                                 },
                                 "to": [
                                     {
-                                        "key_code": "right_command"
+                                        "key_code": "right_option"
                                     }
                                 ],
                                 "to_if_alone": [
@@ -375,15 +375,15 @@
                         ]
                     },
                     {
-                        "description": "Right Shift to Right Shift or Mouse Middle Click (If Alone)",
+                        "description": "Right Command to Right Command or Mouse Middle Click (If Alone)",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "right_shift"
+                                    "key_code": "right_command"
                                 },
                                 "to": [
                                     {
-                                        "key_code": "right_shift"
+                                        "key_code": "right_command"
                                     }
                                 ],
                                 "to_if_alone": [
