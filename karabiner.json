@@ -354,15 +354,15 @@
                         ]
                     },
                     {
-                        "description": "Right Shift to Right Shift or Mouse Right Click (If Alone)",
+                        "description": "Function to Function or Mouse Right Click (If Alone)",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "right_shift"
+                                    "key_code": "fn"
                                 },
                                 "to": [
                                     {
-                                        "key_code": "right_shift"
+                                        "key_code": "fn"
                                     }
                                 ],
                                 "to_if_alone": [
