@@ -333,27 +333,6 @@
                         ]
                     },
                     {
-                        "description": "Right Option to Right Option or Mouse Left Click (If Alone)",
-                        "manipulators": [
-                            {
-                                "from": {
-                                    "key_code": "right_option"
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "right_option"
-                                    }
-                                ],
-                                "to_if_alone": [
-                                    {
-                                        "pointing_button": "button1"
-                                    }
-                                ],
-                                "type": "basic"
-                            }
-                        ]
-                    },
-                    {
                         "description": "Function to Function or Mouse Right Click (If Alone)",
                         "manipulators": [
                             {
