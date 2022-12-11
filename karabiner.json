@@ -424,11 +424,11 @@
                         ]
                     },
                     {
-                        "description": "Right Option+/ to Command+W",
+                        "description": "Right Option+: to Command+W",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "slash",
+                                    "key_code": "semicolon",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_option"
