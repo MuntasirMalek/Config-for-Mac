@@ -21,7 +21,7 @@
         "command": "workbench.action.toggleStatusbarVisibility"
     },
     {
-        "key": "ctrl+m",
+        "key": "alt+m",
         "command": "editor.action.toggleMinimap"
     },
     {
