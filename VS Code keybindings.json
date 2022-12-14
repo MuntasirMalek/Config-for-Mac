@@ -75,7 +75,6 @@
     },
     {
         "key": "cmd+w",
-        "command": "workbench.action.terminal.killInstance",
-        "when": "terminalFocus && terminalHasBeenCreated || terminalFocus && terminalProcessSupported"
+        "command": "workbench.action.terminal.killInstance"
     }
 ]
